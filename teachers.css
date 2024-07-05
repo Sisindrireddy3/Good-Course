@@ -1,0 +1,391 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 4000px;
+    width: 100%;
+    background-color: rgb(214, 198, 175);
+    font-family: sans-serif;
+}
+.container{
+margin-top: 150px;
+text-align: center;
+}
+.container h1{
+    font-size: 70px;
+}
+.container p{
+    font-size: 30px;
+    margin-top: 50px;
+
+}
+.mains1{
+    height: 500px;
+    width: 1100px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+.mains1 img{
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.main2{
+    margin-top: 50px;
+    margin-left: 110px;
+    font-size: 40px;
+    display: flex;
+    column-gap: 30px;
+}
+.matter1{
+    margin-left: 500px;
+    margin-top: -380px;
+}
+.matter1 h6{
+    font-size: 15px;
+}
+.matter1 h1{
+    margin-top: 30px;
+}
+.matter1 hr{
+    margin-top: 20px;
+    padding: 0 30px;
+    border: solid
+}
+.matter1 p{
+    margin-top: 30px;
+}
+.matter1 button{
+    margin-top: 30px;
+    height: 40px;
+    width: 160px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 1;
+}
+.mains2{
+    height: 500px;
+    width: 1100px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.mains2 img{
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.matter2{
+    margin-left: 500px;
+    margin-top: -380px;
+}
+.matter2 h6{
+    font-size: 15px;
+}
+.matter2 h1{
+    margin-top: 30px;
+}
+.matter2 hr{
+    margin-top: 20px;
+    padding: 0 30px;
+    border: solid
+}
+.matter2 p{
+    margin-top: 30px;
+}
+.matter2 button{
+    margin-top: 30px;
+    height: 40px;
+    width: 160px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 1;
+}
+.mains3{
+    height: 500px;
+    width: 1100px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.mains3 img{
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.matter3{
+    margin-left: 500px;
+    margin-top: -380px;
+}
+.matter3 h6{
+    font-size: 15px;
+}
+.matter3 h1{
+    margin-top: 30px;
+}
+.matter3 hr{
+    margin-top: 20px;
+    padding: 0 30px;
+    border: solid
+}
+.matter3 p{
+    margin-top: 30px;
+}
+.matter3 button{
+    margin-top: 30px;
+    height: 40px;
+    width: 160px;
+    font-size: 20px;
+    border-radius: 20px;
+    border: 1;
+}
+.header{
+    margin-top: 200px;
+}
+.header h1{
+    text-align: center;
+    font-size: 45px;
+}
+.container2{
+    margin-top: 60px;
+    display: flex;
+    column-gap: 20px;
+}
+.contain1{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 0 20px;
+
+}
+
+.contain1 span{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain1 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain1 p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 21px;
+}
+.contain2{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+
+}
+
+.contain2 span{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain2 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain2 p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 21px;
+}
+
+
+.contain3{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.contain3 span{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain3 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain3 p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 21px;
+}
+.container3{
+    margin-top: 40px;
+    display: flex;
+    column-gap: 20px;
+    
+}
+
+.contain4{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 0 20px;
+}
+.contain4 span{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain4 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain4 p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 21px;
+}
+.contain5{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.contain5 span{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain5 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain5 p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 21px;
+}
+
+.contain6{
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid;
+    border-radius: 20px;
+}
+.contain6 span{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain6 h1{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.contain6 p{
+    margin-left: 30px;
+    margin-top: 40px;
+    font-size: 21px;
+}
+
+
+
+
+.footer{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+
+}
+.foot3 hr{
+margin-left:-10px;
+margin-top: 50px;
+}
+.links{
+    color: white;
+    
+        display: flex;
+        column-gap: 160px;
+        margin-top: 30px;
+        margin-left: 10px;
+        font-size: 25px;
+    }
+    .list{
+        display: flex;
+        margin-left: 700px;
+        margin-top: -200px;
+    }
+    .list1 li{
+        list-style: none;
+    }
+    .list1 ul li a{
+        text-decoration: none;
+        color: white;
+    }
+
+
+    .list2 li{
+        list-style: none;
+    }
+    .list2 ul li a{
+        text-decoration: none;
+        color: white;
+    }
+
+    .list3 li{
+        list-style: none;
+    }
+    .list3 ul li a{
+        text-decoration: none;
+        color: white;
+    }
+
+    .list4 li{
+        list-style: none;
+    }
+    .list4 ul li a{
+        text-decoration: none;
+        color: white;
+    }
+    .footers{
+        margin-left: 30px;
+        display: flex;
+        margin-top: 50px;
+
+     
+    }
+    .lines{
+        height: 2px;
+        width: 1200px;
+        background-color: wheat;
+        margin-top: 150px;
+        margin-left: 30px;
+    
+    }
+    .para{
+        margin-top: 60px;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        padding: 0 30px;
+
+
+    }
+
