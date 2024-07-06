@@ -388,4 +388,50 @@ margin-top: 50px;
 
 
     }
+    .today{
+        height: 500px;
+        width: 1200px;
+        background-color: rgb(238, 211, 61);
+        margin-left: 50px;
+        margin-top: 200px;
+        border-radius: 30px;
+    }
+    .today1 {
+        padding-top: 100px;
+        margin-left: 100px;
+    }
+    .today1 h1{
+        font-size: 40px;
+    }
+    .today1 p{
+        margin-top: 30px;
+        font-size: 22px;
+    }
+    .today1 button{
+        margin-top: 50px;
+        height: 60px;
+        width: 160px;
+        font-size: 15px;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+        border: 0;
+        cursor: pointer;
+    }
+    .today1 h5{
+        margin-left: 200px;
+        margin-top: -40px;
+    }
+    .today2{
+        display: flex;
+        column-gap: 30px;
+        margin-left: 620px;
+        margin-top: -270px;
+    }
+    .sunny1 img{
+        border-radius: 20px;
+    }
+    .sunny2 img{
+        border-radius: 20px;
+    }
 
